@@ -70,6 +70,8 @@
     <Compile Include="FizzBuzzKata\TestFizzBuzz.cs" />
     <Compile Include="LCDDigits\LCDDigits.cs" />
     <Compile Include="LCDDigits\TestLCDDigits.cs" />
+    <Compile Include="MineFields\MineFields.cs" />
+    <Compile Include="MineFields\TestMineFields.cs" />
     <Compile Include="OddEvenKata\OddEven.cs" />
     <Compile Include="OddEvenKata\TestOddEven.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
