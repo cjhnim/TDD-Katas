@@ -72,6 +72,9 @@
     <Compile Include="LCDDigits\TestLCDDigits.cs" />
     <Compile Include="OddEvenKata\OddEven.cs" />
     <Compile Include="OddEvenKata\TestOddEven.cs" />
+    <Compile Include="PasswordVerifier\PasswordVerifier.cs" />
+    <Compile Include="PasswordVerifier\PasswordVerifierException.cs" />
+    <Compile Include="PasswordVerifier\TestPasswordVerifier.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="StringCalculator\Calculator.cs" />
     <Compile Include="StringCalculator\TestCalculator.cs" />
